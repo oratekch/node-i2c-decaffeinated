@@ -1,5 +1,5 @@
 {
-  "name": "i2c",
+  "name": "i2c-decaffeinated",
   "version": "0.2.3",
   "description": "Native bindings for i2c-dev. Plays well with Raspberry Pi and BeagleBone. Now without CoffeeScript.",
   "main": "main.js",
