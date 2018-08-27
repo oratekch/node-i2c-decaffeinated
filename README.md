@@ -142,8 +142,3 @@ npm install i2c@0.1.8
 ## Contributors
 
 Thanks to @alphacharlie for Nan rewrite!
-
-
-## Questions?
-
-http://www.twitter.com/korevec
